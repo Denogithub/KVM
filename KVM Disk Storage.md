@@ -1,4 +1,4 @@
-# provision Disk Storage for KVM Virtualization #
+# Provision Disk Storage for KVM Virtualization #
 Task:
 1. provision Disk size of 220GB
 2. Format as xfs file system
