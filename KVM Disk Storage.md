@@ -19,3 +19,7 @@ Task:
 ![Image](https://github.com/user-attachments/assets/30918735-87b0-495a-a330-f436b69fd7ed)
 
 ![Image](https://github.com/user-attachments/assets/c8552169-b9eb-4dcc-aada-1c49974326ec)
+
+![Image](https://github.com/user-attachments/assets/1e5558f8-df1c-405e-a346-5415ca37c046)
+
+![Image](https://github.com/user-attachments/assets/ffe66eba-f353-4fc3-bd03-a5c4ccc1b0dc)
