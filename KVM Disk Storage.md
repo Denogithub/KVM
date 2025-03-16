@@ -1,6 +1,6 @@
 # Provision Disk Storage for KVM Virtualization #
 Task:
-1. provision Disk size of 220GB
+1. Provision Disk size of 220GB
 2. Format as xfs file system
 3. Mount on /ops2 director
 4. Enable automount at system reboot
