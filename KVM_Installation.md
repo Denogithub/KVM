@@ -1,5 +1,5 @@
 # Kernel Base Virtual Machine (KVM) is a Linux virtualization software #
-# It enable multiple OS (windows, Centos, redhat etc) to be created as guest VM in the Linux host system #
+# It enable multiple OS (windows, Centos, redhat etc) to be created as guest VM in the Centos host system #
 # To this day it is still debatable whether KVM is a type 1 or type 2 hypervisor #
 
 # Tasks: KVM installation on CentOS 7 #
