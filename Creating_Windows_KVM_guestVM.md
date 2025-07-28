@@ -12,3 +12,4 @@
 <img width="425" height="315" alt="Windows_Installation_09" src="https://github.com/user-attachments/assets/edd190c8-59f9-4997-a3ab-d8b9a869a4f3" />
 <img width="465" height="339" alt="Windows_Installation_10" src="https://github.com/user-attachments/assets/b3648e30-ca00-4d00-8900-56347af88e87" />
 <img width="442" height="323" alt="Windows_Installation_11" src="https://github.com/user-attachments/assets/ec152ff7-8941-4032-b711-207fb0971ca9" />
+<img width="442" height="331" alt="Windows_Installation_12" src="https://github.com/user-attachments/assets/d72c288a-bf25-4c8c-847a-9a6e5f4b0ef4" />
