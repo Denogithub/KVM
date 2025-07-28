@@ -16,3 +16,8 @@
 <img width="507" height="335" alt="kvm_guestvm_install_01" src="https://github.com/user-attachments/assets/6ac6a602-503b-4774-9566-bfeed053c1de" />
 
 <img width="423" height="309" alt="kvm_guestvm_install_02" src="https://github.com/user-attachments/assets/4b2134fd-3ce9-4c79-a157-617182341136" />
+
+<img width="449" height="324" alt="kvm_guestvm_install_03" src="https://github.com/user-attachments/assets/ff5d4eb3-03ae-42a3-a8b0-6ed8a27badc1" />
+<img width="426" height="327" alt="kvm_guestvm_install_04" src="https://github.com/user-attachments/assets/6aec4dcf-ca8b-4795-96dc-539238f7424e" />
+
+
