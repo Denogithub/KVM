@@ -18,3 +18,14 @@
 
 <img width="584" height="369" alt="KVM_administration_Managment_09" src="https://github.com/user-attachments/assets/268c2049-5329-48ff-9b8f-a6dce9f92817" />
 
+<img width="446" height="315" alt="KVM_administration_Managment_10" src="https://github.com/user-attachments/assets/ea309ba9-b3af-4031-813a-d09c553dc7e5" />
+
+<img width="584" height="273" alt="KVM_administration_Managment_11" src="https://github.com/user-attachments/assets/167df2bf-f6c2-4c0c-bd5a-7c5203e22ddd" />
+
+<img width="428" height="311" alt="KVM_administration_Managment_12" src="https://github.com/user-attachments/assets/8eeb1b8b-0ae2-4981-a417-ea343bf5a472" />
+
+<img width="424" height="313" alt="KVM_administration_Managment_13" src="https://github.com/user-attachments/assets/5294daa1-045b-4fd8-8796-1de995204687" />
+
+<img width="470" height="339" alt="KVM_administration_Managment_14" src="https://github.com/user-attachments/assets/c749b467-ba50-44c8-8fab-0535b1c0d122" />
+
+<img width="444" height="330" alt="KVM_administration_Managment_15" src="https://github.com/user-attachments/assets/93aa7202-dcbe-4932-845d-e6734e16e089" />
